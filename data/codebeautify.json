@@ -1,0 +1,9167 @@
+﻿[
+    {
+        "countries": [
+    {
+		"Country": "Afghanistan",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "41",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "344",
+		"NumberKilled": "4266"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "7",
+		"NumberKilled": "34"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "11",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bahamas",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "11",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "17",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "42",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "39",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "79",
+		"NumberKilled": "386"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "18",
+		"NumberKilled": "100"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "18",
+		"NumberKilled": "37"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "598",
+		"NumberKilled": "1230"
+	},
+	{
+		"Country": "Comoros",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Costa Rica",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "8",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Cuba",
+		"Attacks": "14",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "1",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Djibouti",
+		"Attacks": "1",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Dominica",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Dominican Republic",
+		"Attacks": "12",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "22",
+		"NumberKilled": "165"
+	},
+	{
+		"Country": "El Salvador",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "6",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "France",
+		"Attacks": "130",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "French Guiana",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Gabon",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "6",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "12",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ghana",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "21",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "26",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "16",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "22",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "17",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "India",
+		"Attacks": "193",
+		"NumberKilled": "853"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "27",
+		"NumberKilled": "102"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "21",
+		"NumberKilled": "106"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "13",
+		"NumberKilled": "31"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jamaica",
+		"Attacks": "8",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "17",
+		"NumberKilled": "36"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "46",
+		"NumberKilled": "36"
+	},
+	{
+		"Country": "Lithuania",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Macau",
+		"Attacks": "16",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malta",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "95",
+		"NumberKilled": "229"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "35",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "9",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nicaragua",
+		"Attacks": "7",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "3",
+		"NumberKilled": "32"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "20",
+		"NumberKilled": "107"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "206",
+		"NumberKilled": "443"
+	},
+	{
+		"Country": "Panama",
+		"Attacks": "6",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Papua New Guinea",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "58",
+		"NumberKilled": "47"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "57",
+		"NumberKilled": "98"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "77",
+		"NumberKilled": "61"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "33",
+		"NumberKilled": "1027"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "26",
+		"NumberKilled": "92"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "3",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Slovak Republic",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Slovenia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "19",
+		"NumberKilled": "145"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "17",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "86",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "64",
+		"NumberKilled": "486"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Suriname",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "40",
+		"NumberKilled": "43"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "20",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "44",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "24",
+		"NumberKilled": "239"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "78",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "40",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Uruguay",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "41",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Vietnam",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "22",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "19",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "38",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Zaire",
+		"Attacks": "5",
+		"NumberKilled": "13"
+	}
+	      ],
+        "year": "1997"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "7",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "151",
+		"NumberKilled": "952"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "20",
+		"NumberKilled": "275"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "9",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "13",
+		"NumberKilled": "392"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "7",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "2",
+		"NumberKilled": "50"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "94",
+		"NumberKilled": "592"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "4",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "3",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "France",
+		"Attacks": "12",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "12",
+		"NumberKilled": "32"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "28",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "61",
+		"NumberKilled": "398"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "3",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "5",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "7",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "14",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "2",
+		"NumberKilled": "226"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "23",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Macau",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "2",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "37",
+		"NumberKilled": "151"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "5",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "18",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "26",
+		"NumberKilled": "49"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "9",
+		"NumberKilled": "100"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "7",
+		"NumberKilled": "258"
+	},
+	{
+		"Country": "Slovak Republic",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "6",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "17",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "35",
+		"NumberKilled": "680"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "11",
+		"NumberKilled": "29"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "1",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "23",
+		"NumberKilled": "37"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "18",
+		"NumberKilled": "81"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "63",
+		"NumberKilled": "46"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "31",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "12",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "46",
+		"NumberKilled": "57"
+		}
+		],
+        "year": "1998"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "9",
+		"NumberKilled": "39"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "3",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "106",
+		"NumberKilled": "467"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "34",
+		"NumberKilled": "299"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "11",
+		"NumberKilled": "30"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "13",
+		"NumberKilled": "108"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "1",
+		"NumberKilled": "77"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "116",
+		"NumberKilled": "262"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "3",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Estonia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Fiji",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "France",
+		"Attacks": "46",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "7",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "13",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "35",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "India",
+		"Attacks": "112",
+		"NumberKilled": "469"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "60",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "8",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "12",
+		"NumberKilled": "32"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "8",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "7",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "39",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "42",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "4",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Namibia",
+		"Attacks": "1",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "8",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nicaragua",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "18",
+		"NumberKilled": "134"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "39",
+		"NumberKilled": "127"
+	},
+	{
+		"Country": "Panama",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "5",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "31",
+		"NumberKilled": "45"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "3",
+		"NumberKilled": "107"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "54",
+		"NumberKilled": "395"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "9",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Slovak Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Solomon Islands",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "4",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "17",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "47",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "46",
+		"NumberKilled": "212"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "5",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "109",
+		"NumberKilled": "127"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "19",
+		"NumberKilled": "75"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "76",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "53",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Uzbekistan",
+		"Attacks": "8",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "11",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "17",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "23",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Zambia",
+		"Attacks": "7",
+		"NumberKilled": "1"
+	}
+	      ],
+        "year": "1999"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "14",
+		"NumberKilled": "38"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "138",
+		"NumberKilled": "528"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "22",
+		"NumberKilled": "178"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "23",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Belize",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "17",
+		"NumberKilled": "97"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "4",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "137",
+		"NumberKilled": "426"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "3",
+		"NumberKilled": "40"
+	},
+	{
+		"Country": "East Timor",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Fiji",
+		"Attacks": "4",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "France",
+		"Attacks": "28",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Gambia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "7",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "28",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Guinea",
+		"Attacks": "12",
+		"NumberKilled": "206"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "9",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Hong Kong",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "180",
+		"NumberKilled": "671"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "101",
+		"NumberKilled": "146"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "15",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "10",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "15",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "13",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "4",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "60",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "12",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "3",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Namibia",
+		"Attacks": "21",
+		"NumberKilled": "24"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "23",
+		"NumberKilled": "91"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nicaragua",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "49",
+		"NumberKilled": "118"
+	},
+	{
+		"Country": "Panama",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "132",
+		"NumberKilled": "290"
+	},
+	{
+		"Country": "Qatar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "138",
+		"NumberKilled": "362"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "24",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Slovak Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Slovenia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Solomon Islands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "9",
+		"NumberKilled": "36"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "21",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "112",
+		"NumberKilled": "29"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "68",
+		"NumberKilled": "449"
+	},
+	{
+		"Country": "St. Lucia",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "7",
+		"NumberKilled": "27"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "6",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "4",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "1",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "35",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "20",
+		"NumberKilled": "297"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "61",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "32",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "28",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "10",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "14",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Zambia",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2000"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "14",
+		"NumberKilled": "174"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "113",
+		"NumberKilled": "624"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "40",
+		"NumberKilled": "846"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "15",
+		"NumberKilled": "57"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "37",
+		"NumberKilled": "166"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "7",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "12",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "207",
+		"NumberKilled": "576"
+	},
+	{
+		"Country": "Costa Rica",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "5",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Estonia",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Fiji",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "France",
+		"Attacks": "21",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "4",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "8",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "14",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Hong Kong",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "India",
+		"Attacks": "234",
+		"NumberKilled": "660"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "105",
+		"NumberKilled": "134"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "3",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "79",
+		"NumberKilled": "141"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "7",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "17",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "67",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "7",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Montenegro",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "3",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Namibia",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "33",
+		"NumberKilled": "172"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "53",
+		"NumberKilled": "109"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "3",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "50",
+		"NumberKilled": "154"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Qatar",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "135",
+		"NumberKilled": "228"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "8",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "South Korea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "79",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "36",
+		"NumberKilled": "195"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "9",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "2",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "6",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "14",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "19",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "24",
+		"NumberKilled": "56"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "94",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "41",
+		"NumberKilled": "3008"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Vietnam",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "123",
+		"NumberKilled": "105"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "20",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	}
+	      ],
+        "year": "2001"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "38",
+		"NumberKilled": "74"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "132",
+		"NumberKilled": "615"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "6",
+		"NumberKilled": "59"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "5",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "18",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "4",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "150",
+		"NumberKilled": "356"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "7",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "France",
+		"Attacks": "32",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "184",
+		"NumberKilled": "599"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "43",
+		"NumberKilled": "246"
+	},
+	{
+		"Country": "International",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "6",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "75",
+		"NumberKilled": "337"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "7",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "2",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "8",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "3",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "8",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malawi",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "58",
+		"NumberKilled": "486"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "6",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "46",
+		"NumberKilled": "105"
+	},
+	{
+		"Country": "Papua New Guinea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "2",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "48",
+		"NumberKilled": "125"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "3",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "89",
+		"NumberKilled": "512"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "3",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Solomon Islands",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "3",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "41",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "3",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "13",
+		"NumberKilled": "589"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "2",
+		"NumberKilled": "24"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "12",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "1",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Turkmenistan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "24",
+		"NumberKilled": "173"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "21",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "33",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "86",
+		"NumberKilled": "177"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Yugoslavia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Zambia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "8",
+		"NumberKilled": "8"
+	}
+	      ],
+        "year": "2002"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "100",
+		"NumberKilled": "163"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "75",
+		"NumberKilled": "269"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "4",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "18",
+		"NumberKilled": "116"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "98",
+		"NumberKilled": "184"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "6",
+		"NumberKilled": "154"
+	},
+	{
+		"Country": "East Timor",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "France",
+		"Attacks": "34",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "12",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "5",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "India",
+		"Attacks": "196",
+		"NumberKilled": "472"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "18",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "102",
+		"NumberKilled": "391"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "38",
+		"NumberKilled": "156"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "15",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "9",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "2",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Morocco",
+		"Attacks": "5",
+		"NumberKilled": "45"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "9",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "15",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "9",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "29",
+		"NumberKilled": "119"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "107",
+		"NumberKilled": "288"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "1",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "76",
+		"NumberKilled": "328"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "8",
+		"NumberKilled": "55"
+	},
+	{
+		"Country": "Serbia-Montenegro",
+		"Attacks": "6",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Solomon Islands",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "South Korea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "21",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "9",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "6",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "19",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "30",
+		"NumberKilled": "231"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "23",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "33",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "45",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2003"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "88",
+		"NumberKilled": "275"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "67",
+		"NumberKilled": "166"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "11",
+		"NumberKilled": "43"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "1",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "37",
+		"NumberKilled": "83"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "5",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Djibouti",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "3",
+		"NumberKilled": "37"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "France",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "2",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "India",
+		"Attacks": "108",
+		"NumberKilled": "334"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "17",
+		"NumberKilled": "42"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "323",
+		"NumberKilled": "2171"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "19",
+		"NumberKilled": "59"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "62",
+		"NumberKilled": "630"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "6",
+		"NumberKilled": "41"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "67",
+		"NumberKilled": "304"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "3",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "32",
+		"NumberKilled": "206"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "44",
+		"NumberKilled": "607"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "17",
+		"NumberKilled": "64"
+	},
+	{
+		"Country": "Serbia-Montenegro",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "31",
+		"NumberKilled": "193"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "33",
+		"NumberKilled": "30"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "5",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "44",
+		"NumberKilled": "32"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "27",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "10",
+		"NumberKilled": "193"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Uzbekistan",
+		"Attacks": "5",
+		"NumberKilled": "36"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "34",
+		"NumberKilled": "31"
+	}
+	      ],
+        "year": "2004"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "155",
+		"NumberKilled": "367"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "104",
+		"NumberKilled": "228"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "23",
+		"NumberKilled": "44"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "5",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "China",
+		"Attacks": "1",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "42",
+		"NumberKilled": "145"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "5",
+		"NumberKilled": "31"
+	},
+	{
+		"Country": "East Timor",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "2",
+		"NumberKilled": "92"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "5",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "France",
+		"Attacks": "33",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "6",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guinea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "4",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Hong Kong",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "146",
+		"NumberKilled": "466"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "15",
+		"NumberKilled": "66"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "5",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "617",
+		"NumberKilled": "3384"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "43",
+		"NumberKilled": "45"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "41"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "4",
+		"NumberKilled": "62"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "2",
+		"NumberKilled": "56"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "17",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "1",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "8",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "70",
+		"NumberKilled": "211"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "9",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "77",
+		"NumberKilled": "152"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "2",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "25",
+		"NumberKilled": "49"
+	},
+	{
+		"Country": "Qatar",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "64",
+		"NumberKilled": "157"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "1",
+		"NumberKilled": "30"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Serbia-Montenegro",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "6",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "24",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "133",
+		"NumberKilled": "125"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "6",
+		"NumberKilled": "54"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "155",
+		"NumberKilled": "130"
+	},
+	{
+		"Country": "Togo",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Trinidad and Tobago",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "41",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "11",
+		"NumberKilled": "80"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "29",
+		"NumberKilled": "57"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "21",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Uruguay",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Uzbekistan",
+		"Attacks": "2",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "38",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "12"
+	}
+	      ],
+        "year": "2005"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "282",
+		"NumberKilled": "732"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "152",
+		"NumberKilled": "185"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "23",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bhutan",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "5",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "11",
+		"NumberKilled": "103"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "43",
+		"NumberKilled": "79"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "5",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "5",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "11",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "France",
+		"Attacks": "34",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "3",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "23",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "1",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "2",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "India",
+		"Attacks": "167",
+		"NumberKilled": "722"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "10",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "14",
+		"NumberKilled": "48"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "838",
+		"NumberKilled": "4616"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "81",
+		"NumberKilled": "57"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "3",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "2",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "8",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Lesotho",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "7",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "83",
+		"NumberKilled": "133"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "37",
+		"NumberKilled": "254"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "164",
+		"NumberKilled": "315"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "58",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "56",
+		"NumberKilled": "57"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Serbia-Montenegro",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "10",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "South Korea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "23",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "217",
+		"NumberKilled": "1012"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "24",
+		"NumberKilled": "484"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "1",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "202",
+		"NumberKilled": "194"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "43",
+		"NumberKilled": "46"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "35",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "5",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2006"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "341",
+		"NumberKilled": "1199"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "124",
+		"NumberKilled": "241"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "9",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Benin",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "3",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "1",
+		"NumberKilled": "31"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "7",
+		"NumberKilled": "136"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "30",
+		"NumberKilled": "64"
+	},
+	{
+		"Country": "Cuba",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "11",
+		"NumberKilled": "72"
+	},
+	{
+		"Country": "East Timor",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Eritrea",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "5",
+		"NumberKilled": "204"
+	},
+	{
+		"Country": "Finland",
+		"Attacks": "1",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "France",
+		"Attacks": "16",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "15",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "India",
+		"Attacks": "149",
+		"NumberKilled": "626"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "9",
+		"NumberKilled": "24"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1047",
+		"NumberKilled": "6667"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "53",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jamaica",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "12",
+		"NumberKilled": "33"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "18",
+		"NumberKilled": "40"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "5",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "10",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Montenegro",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Morocco",
+		"Attacks": "6",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "1",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "3",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "90",
+		"NumberKilled": "44"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "7",
+		"NumberKilled": "66"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "61",
+		"NumberKilled": "82"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "260",
+		"NumberKilled": "1406"
+	},
+	{
+		"Country": "Papua New Guinea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "4",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "65",
+		"NumberKilled": "115"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "51",
+		"NumberKilled": "55"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "156",
+		"NumberKilled": "408"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "132",
+		"NumberKilled": "410"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "23",
+		"NumberKilled": "317"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "293",
+		"NumberKilled": "264"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "1",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "29",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "20",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "88",
+		"NumberKilled": "112"
+	},
+	{
+		"Country": "Western Sahara",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "7",
+		"NumberKilled": "24"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2007"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "414",
+		"NumberKilled": "1092"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "107",
+		"NumberKilled": "249"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "7",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "19",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bhutan",
+		"Attacks": "3",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "7",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "8",
+		"NumberKilled": "172"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "20",
+		"NumberKilled": "39"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "133",
+		"NumberKilled": "85"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "20",
+		"NumberKilled": "319"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "East Timor",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Eritrea",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "8",
+		"NumberKilled": "27"
+	},
+	{
+		"Country": "Finland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "France",
+		"Attacks": "13",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "33",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "53",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "3",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Hong Kong",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "534",
+		"NumberKilled": "824"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "13",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "8",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1106",
+		"NumberKilled": "2864"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "134",
+		"NumberKilled": "34"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "11",
+		"NumberKilled": "103"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "58",
+		"NumberKilled": "142"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "1",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "9",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "9",
+		"NumberKilled": "55"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "2",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "8",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "20",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "120",
+		"NumberKilled": "50"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "9",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "76",
+		"NumberKilled": "72"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "568",
+		"NumberKilled": "1184"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "276",
+		"NumberKilled": "220"
+	},
+	{
+		"Country": "Romania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "170",
+		"NumberKilled": "95"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "2",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Serbia",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "172",
+		"NumberKilled": "436"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "37",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "100",
+		"NumberKilled": "353"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "32",
+		"NumberKilled": "205"
+	},
+	{
+		"Country": "Swaziland",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "1",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "200",
+		"NumberKilled": "166"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "32",
+		"NumberKilled": "42"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "7",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "39",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "18",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "63",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "22",
+		"NumberKilled": "74"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "5",
+		"NumberKilled": "7"
+	}
+	      ],
+        "year": "2008"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "503",
+		"NumberKilled": "1065"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "108",
+		"NumberKilled": "204"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "27",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "5",
+		"NumberKilled": "38"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "7",
+		"NumberKilled": "186"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "139",
+		"NumberKilled": "107"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "54",
+		"NumberKilled": "824"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Equatorial Guinea",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Eritrea",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "2",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "France",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "25",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "115",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "8",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "India",
+		"Attacks": "672",
+		"NumberKilled": "774"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "19",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "15",
+		"NumberKilled": "97"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1137",
+		"NumberKilled": "2585"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "36",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "14",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Lesotho",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "6",
+		"NumberKilled": "30"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "5",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "14",
+		"NumberKilled": "46"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "39",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "4",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "42",
+		"NumberKilled": "316"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "667",
+		"NumberKilled": "1487"
+	},
+	{
+		"Country": "Panama",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "4",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "229",
+		"NumberKilled": "151"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "152",
+		"NumberKilled": "141"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "3",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "3",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Serbia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "122",
+		"NumberKilled": "381"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "21",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "37",
+		"NumberKilled": "201"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "26",
+		"NumberKilled": "77"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "298",
+		"NumberKilled": "270"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "13",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "2",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "23",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "11",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Uzbekistan",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "3",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "10",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "23",
+		"NumberKilled": "47"
+	}
+	      ],
+        "year": "2009"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "542",
+		"NumberKilled": "1157"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "100",
+		"NumberKilled": "109"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "22",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "29",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "3",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "13",
+		"NumberKilled": "46"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "136",
+		"NumberKilled": "56"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "18",
+		"NumberKilled": "118"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Eritrea",
+		"Attacks": "1",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "2",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "France",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "7",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "49",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "India",
+		"Attacks": "663",
+		"NumberKilled": "812"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "14",
+		"NumberKilled": "115"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1179",
+		"NumberKilled": "2074"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "14",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "10",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "7",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "12",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "5",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "11",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "38",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "3",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "63",
+		"NumberKilled": "117"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "713",
+		"NumberKilled": "1699"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "205",
+		"NumberKilled": "155"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "251",
+		"NumberKilled": "231"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "8",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Serbia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "130",
+		"NumberKilled": "295"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "28",
+		"NumberKilled": "81"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "253",
+		"NumberKilled": "154"
+	},
+	{
+		"Country": "Trinidad and Tobago",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "20",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "6",
+		"NumberKilled": "75"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Arab Emirates",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "57",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "17",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "112",
+		"NumberKilled": "345"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	}
+	      ],
+        "year": "2010"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "421",
+		"NumberKilled": "1525"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "15",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "13",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "1",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Bhutan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "8",
+		"NumberKilled": "47"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "3",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "6",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "4",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "94",
+		"NumberKilled": "43"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "16",
+		"NumberKilled": "50"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "18",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Eritrea",
+		"Attacks": "1",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Estonia",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "France",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "8",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "11",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "India",
+		"Attacks": "645",
+		"NumberKilled": "499"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "21",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "13",
+		"NumberKilled": "18"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1308",
+		"NumberKilled": "1870"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "51",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "5",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "3",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "5",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "42",
+		"NumberKilled": "42"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "10",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Mauritania",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Morocco",
+		"Attacks": "1",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "46",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "175",
+		"NumberKilled": "447"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "3",
+		"NumberKilled": "77"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "1012",
+		"NumberKilled": "1676"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "151",
+		"NumberKilled": "127"
+	},
+	{
+		"Country": "Portugal",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "188",
+		"NumberKilled": "160"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "2",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "4",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "185",
+		"NumberKilled": "344"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "38",
+		"NumberKilled": "193"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "49",
+		"NumberKilled": "163"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "182",
+		"NumberKilled": "152"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "51",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "47",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "10",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "20",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "118",
+		"NumberKilled": "461"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2011"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1469",
+		"NumberKilled": "3521"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "41",
+		"NumberKilled": "30"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "26",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "18",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Belarus",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bolivia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "4",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "4",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "4",
+		"NumberKilled": "27"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "115",
+		"NumberKilled": "168"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "25",
+		"NumberKilled": "288"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "49",
+		"NumberKilled": "44"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "3",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "France",
+		"Attacks": "66",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "22",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Guinea-Bissau",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Iceland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "611",
+		"NumberKilled": "264"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "39",
+		"NumberKilled": "15"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "5",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "1437",
+		"NumberKilled": "2686"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "29",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "65",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "10",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "16",
+		"NumberKilled": "45"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "80",
+		"NumberKilled": "107"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "4",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "15",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "57",
+		"NumberKilled": "33"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "1",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "19",
+		"NumberKilled": "53"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "16",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "17",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "46",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "616",
+		"NumberKilled": "1508"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "1654",
+		"NumberKilled": "2784"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "6",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "249",
+		"NumberKilled": "211"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "151",
+		"NumberKilled": "161"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "6",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "6",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "12",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Serbia",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "325",
+		"NumberKilled": "783"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "5",
+		"NumberKilled": "68"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "40",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "180",
+		"NumberKilled": "877"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "279",
+		"NumberKilled": "209"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "3",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "188",
+		"NumberKilled": "247"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "8",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "55",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "20",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "23",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "312",
+		"NumberKilled": "1056"
+	}
+	      ],
+        "year": "2012"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1443",
+		"NumberKilled": "3709"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "22",
+		"NumberKilled": "101"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahamas",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "52",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "139",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Belize",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burkina Faso",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Cambodia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "3",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "20",
+		"NumberKilled": "120"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "5",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "China",
+		"Attacks": "12",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "149",
+		"NumberKilled": "137"
+	},
+	{
+		"Country": "Croatia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "22",
+		"NumberKilled": "150"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Dominican Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "321",
+		"NumberKilled": "243"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "5",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "France",
+		"Attacks": "18",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "54",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Guatemala",
+		"Attacks": "6",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Guinea",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "India",
+		"Attacks": "694",
+		"NumberKilled": "467"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "32",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "11",
+		"NumberKilled": "39"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "2852",
+		"NumberKilled": "7041"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "27",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "37",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "7",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "80",
+		"NumberKilled": "207"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "121",
+		"NumberKilled": "190"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "291",
+		"NumberKilled": "232"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "13",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "58",
+		"NumberKilled": "137"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "8",
+		"NumberKilled": "47"
+	},
+	{
+		"Country": "Montenegro",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "18",
+		"NumberKilled": "37"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "18",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "104",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "4",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "346",
+		"NumberKilled": "2014"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "2215",
+		"NumberKilled": "2875"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "10",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "10",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "651",
+		"NumberKilled": "432"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "144",
+		"NumberKilled": "148"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "4",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "3",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "342",
+		"NumberKilled": "660"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "13",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "13",
+		"NumberKilled": "226"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "14",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "46",
+		"NumberKilled": "220"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "285",
+		"NumberKilled": "1568"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "7",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "472",
+		"NumberKilled": "255"
+	},
+	{
+		"Country": "Trinidad and Tobago",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "29",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "42",
+		"NumberKilled": "83"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Arab Emirates",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "137",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "20",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "64",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "425",
+		"NumberKilled": "624"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	}
+	      ],
+        "year": "2013"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1824",
+		"NumberKilled": "5414"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "13",
+		"NumberKilled": "37"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "8",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "42",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "130",
+		"NumberKilled": "38"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "2",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Bhutan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "5",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "68",
+		"NumberKilled": "789"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "3",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "94",
+		"NumberKilled": "751"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "1",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "17",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "China",
+		"Attacks": "37",
+		"NumberKilled": "322"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "231",
+		"NumberKilled": "143"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "110",
+		"NumberKilled": "366"
+	},
+	{
+		"Country": "Djibouti",
+		"Attacks": "1",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Dominican Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "354",
+		"NumberKilled": "343"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "2",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "France",
+		"Attacks": "14",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "13",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ghana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "26",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Iceland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "860",
+		"NumberKilled": "490"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "35",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "9",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "3933",
+		"NumberKilled": "13965"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "33",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "293",
+		"NumberKilled": "49"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "7",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Jamaica",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "115",
+		"NumberKilled": "315"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "204",
+		"NumberKilled": "134"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "728",
+		"NumberKilled": "694"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "12",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "69",
+		"NumberKilled": "125"
+	},
+	{
+		"Country": "Malta",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "22",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "15",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "7",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Nicaragua",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "5",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "714",
+		"NumberKilled": "7781"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "2151",
+		"NumberKilled": "2413"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "15",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "12",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "597",
+		"NumberKilled": "472"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "48",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "14",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "2",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "872",
+		"NumberKilled": "1589"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "20",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "40",
+		"NumberKilled": "908"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "16",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "157",
+		"NumberKilled": "546"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "331",
+		"NumberKilled": "3312"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "11",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "423",
+		"NumberKilled": "192"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "23",
+		"NumberKilled": "43"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "94",
+		"NumberKilled": "39"
+	},
+	{
+		"Country": "Turkmenistan",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "6",
+		"NumberKilled": "98"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "895",
+		"NumberKilled": "1396"
+	},
+	{
+		"Country": "United Arab Emirates",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "103",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "29",
+		"NumberKilled": "26"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "133",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "763",
+		"NumberKilled": "1353"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	}
+	      ],
+        "year": "2014"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1928",
+		"NumberKilled": "6216"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "16",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "14",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "18",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "469",
+		"NumberKilled": "86"
+	},
+	{
+		"Country": "Bosnia-Herzegovina",
+		"Attacks": "6",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "5",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burkina Faso",
+		"Attacks": "6",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "102",
+		"NumberKilled": "223"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "83",
+		"NumberKilled": "931"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "48",
+		"NumberKilled": "171"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "27",
+		"NumberKilled": "306"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "17",
+		"NumberKilled": "123"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "136",
+		"NumberKilled": "104"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "143",
+		"NumberKilled": "371"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "4",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Djibouti",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "647",
+		"NumberKilled": "829"
+	},
+	{
+		"Country": "Estonia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "7",
+		"NumberKilled": "48"
+	},
+	{
+		"Country": "Finland",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "France",
+		"Attacks": "37",
+		"NumberKilled": "162"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "65",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "31",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guinea",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "884",
+		"NumberKilled": "387"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "29",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "9",
+		"NumberKilled": "38"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "2751",
+		"NumberKilled": "8885"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "28",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "58",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "5",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "4",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "10",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "4",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "71",
+		"NumberKilled": "281"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "1",
+		"NumberKilled": "28"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "44",
+		"NumberKilled": "111"
+	},
+	{
+		"Country": "Lesotho",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "543",
+		"NumberKilled": "689"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "5",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "121",
+		"NumberKilled": "269"
+	},
+	{
+		"Country": "Malta",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "19",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Montenegro",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Morocco",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "8",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "37",
+		"NumberKilled": "60"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "48",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "41",
+		"NumberKilled": "666"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "638",
+		"NumberKilled": "5559"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "1243",
+		"NumberKilled": "1608"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "19",
+		"NumberKilled": "14"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "10",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "721",
+		"NumberKilled": "447"
+	},
+	{
+		"Country": "Qatar",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "21",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "103",
+		"NumberKilled": "213"
+	},
+	{
+		"Country": "Senegal",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "418",
+		"NumberKilled": "1447"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "5",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "South Korea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "54",
+		"NumberKilled": "218"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "11",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "158",
+		"NumberKilled": "210"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "32",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "491",
+		"NumberKilled": "3924"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "3",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "14",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "278",
+		"NumberKilled": "116"
+	},
+	{
+		"Country": "Trinidad and Tobago",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "17",
+		"NumberKilled": "103"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "422",
+		"NumberKilled": "490"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "10",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "637",
+		"NumberKilled": "765"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "114",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "38",
+		"NumberKilled": "54"
+	},
+	{
+		"Country": "Uzbekistan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "246",
+		"NumberKilled": "117"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "664",
+		"NumberKilled": "2374"
+	}
+	      ],
+        "year": "2015"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1617",
+		"NumberKilled": "6142"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "9",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Armenia",
+		"Attacks": "2",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "9",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "88",
+		"NumberKilled": "76"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "6",
+		"NumberKilled": "36"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Bulgaria",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burkina Faso",
+		"Attacks": "10",
+		"NumberKilled": "62"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "83",
+		"NumberKilled": "74"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "56",
+		"NumberKilled": "269"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "38",
+		"NumberKilled": "189"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "5",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "18",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "China",
+		"Attacks": "5",
+		"NumberKilled": "13"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "109",
+		"NumberKilled": "52"
+	},
+	{
+		"Country": "Cyprus",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "169",
+		"NumberKilled": "532"
+	},
+	{
+		"Country": "Denmark",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "376",
+		"NumberKilled": "609"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "13",
+		"NumberKilled": "279"
+	},
+	{
+		"Country": "Finland",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "France",
+		"Attacks": "26",
+		"NumberKilled": "95"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "44",
+		"NumberKilled": "27"
+	},
+	{
+		"Country": "Ghana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "31",
+		"NumberKilled": "66"
+	},
+	{
+		"Country": "Guinea",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Guyana",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Haiti",
+		"Attacks": "1",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Hungary",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "India",
+		"Attacks": "1025",
+		"NumberKilled": "467"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "19",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "10",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "3360",
+		"NumberKilled": "12207"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "15",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "50",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "11",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "1",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Japan",
+		"Attacks": "1",
+		"NumberKilled": "19"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "9",
+		"NumberKilled": "35"
+	},
+	{
+		"Country": "Kazakhstan",
+		"Attacks": "3",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "65",
+		"NumberKilled": "72"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kuwait",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "4",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "4",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "41",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "422",
+		"NumberKilled": "634"
+	},
+	{
+		"Country": "Madagascar",
+		"Attacks": "1",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "19",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "99",
+		"NumberKilled": "181"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "5",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Moldova",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "79",
+		"NumberKilled": "62"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "74",
+		"NumberKilled": "73"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "43",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "6",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "New Zealand",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "25",
+		"NumberKilled": "190"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "533",
+		"NumberKilled": "2165"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "864",
+		"NumberKilled": "1113"
+	},
+	{
+		"Country": "Panama",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "15",
+		"NumberKilled": "10"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "3",
+		"NumberKilled": "11"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "632",
+		"NumberKilled": "415"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Republic of the Congo",
+		"Attacks": "15",
+		"NumberKilled": "31"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "55",
+		"NumberKilled": "64"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "124",
+		"NumberKilled": "162"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Slovak Republic",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "602",
+		"NumberKilled": "1583"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "27",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "South Korea",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "59",
+		"NumberKilled": "633"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "173",
+		"NumberKilled": "182"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "16",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Switzerland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "473",
+		"NumberKilled": "2810"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "3",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "329",
+		"NumberKilled": "120"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "12",
+		"NumberKilled": "71"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "542",
+		"NumberKilled": "1006"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "15",
+		"NumberKilled": "75"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "61",
+		"NumberKilled": "48"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "105",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "64",
+		"NumberKilled": "68"
+	},
+	{
+		"Country": "Uruguay",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "6",
+		"NumberKilled": "9"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "157",
+		"NumberKilled": "90"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "525",
+		"NumberKilled": "1517"
+	}
+	      ],
+        "year": "2016"
+    },
+	{
+        "countries": [
+	{
+		"Country": "Afghanistan",
+		"Attacks": "1414",
+		"NumberKilled": "6092"
+	},
+	{
+		"Country": "Albania",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Algeria",
+		"Attacks": "14",
+		"NumberKilled": "12"
+	},
+	{
+		"Country": "Angola",
+		"Attacks": "6",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Argentina",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Australia",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Austria",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Azerbaijan",
+		"Attacks": "2",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Bahrain",
+		"Attacks": "21",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Bangladesh",
+		"Attacks": "41",
+		"NumberKilled": "25"
+	},
+	{
+		"Country": "Belgium",
+		"Attacks": "3",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Brazil",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Burkina Faso",
+		"Attacks": "32",
+		"NumberKilled": "53"
+	},
+	{
+		"Country": "Burundi",
+		"Attacks": "21",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Cameroon",
+		"Attacks": "94",
+		"NumberKilled": "228"
+	},
+	{
+		"Country": "Canada",
+		"Attacks": "12",
+		"NumberKilled": "6"
+	},
+	{
+		"Country": "Central African Republic",
+		"Attacks": "43",
+		"NumberKilled": "601"
+	},
+	{
+		"Country": "Chad",
+		"Attacks": "6",
+		"NumberKilled": "62"
+	},
+	{
+		"Country": "Chile",
+		"Attacks": "12",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "China",
+		"Attacks": "6",
+		"NumberKilled": "16"
+	},
+	{
+		"Country": "Colombia",
+		"Attacks": "117",
+		"NumberKilled": "84"
+	},
+	{
+		"Country": "Czech Republic",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Democratic Republic of the Congo",
+		"Attacks": "143",
+		"NumberKilled": "596"
+	},
+	{
+		"Country": "Djibouti",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Dominican Republic",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Ecuador",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Egypt",
+		"Attacks": "224",
+		"NumberKilled": "877"
+	},
+	{
+		"Country": "Ethiopia",
+		"Attacks": "27",
+		"NumberKilled": "67"
+	},
+	{
+		"Country": "Finland",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "France",
+		"Attacks": "41",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Gabon",
+		"Attacks": "4",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Georgia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Germany",
+		"Attacks": "27",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Greece",
+		"Attacks": "43",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Honduras",
+		"Attacks": "1",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "India",
+		"Attacks": "966",
+		"NumberKilled": "465"
+	},
+	{
+		"Country": "Indonesia",
+		"Attacks": "27",
+		"NumberKilled": "20"
+	},
+	{
+		"Country": "Iran",
+		"Attacks": "11",
+		"NumberKilled": "39"
+	},
+	{
+		"Country": "Iraq",
+		"Attacks": "2466",
+		"NumberKilled": "6476"
+	},
+	{
+		"Country": "Ireland",
+		"Attacks": "17",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Israel",
+		"Attacks": "32",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Italy",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Ivory Coast",
+		"Attacks": "13",
+		"NumberKilled": "3"
+	},
+	{
+		"Country": "Jamaica",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Jordan",
+		"Attacks": "8",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Kenya",
+		"Attacks": "97",
+		"NumberKilled": "126"
+	},
+	{
+		"Country": "Kosovo",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Kyrgyzstan",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Laos",
+		"Attacks": "1",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Latvia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Lebanon",
+		"Attacks": "23",
+		"NumberKilled": "17"
+	},
+	{
+		"Country": "Liberia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Libya",
+		"Attacks": "190",
+		"NumberKilled": "289"
+	},
+	{
+		"Country": "Macedonia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malawi",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Malaysia",
+		"Attacks": "4",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Maldives",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mali",
+		"Attacks": "141",
+		"NumberKilled": "361"
+	},
+	{
+		"Country": "Malta",
+		"Attacks": "3",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Mexico",
+		"Attacks": "20",
+		"NumberKilled": "23"
+	},
+	{
+		"Country": "Mozambique",
+		"Attacks": "11",
+		"NumberKilled": "22"
+	},
+	{
+		"Country": "Myanmar",
+		"Attacks": "115",
+		"NumberKilled": "218"
+	},
+	{
+		"Country": "Nepal",
+		"Attacks": "247",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Netherlands",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Niger",
+		"Attacks": "13",
+		"NumberKilled": "148"
+	},
+	{
+		"Country": "Nigeria",
+		"Attacks": "484",
+		"NumberKilled": "1805"
+	},
+	{
+		"Country": "Norway",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Pakistan",
+		"Attacks": "719",
+		"NumberKilled": "1076"
+	},
+	{
+		"Country": "Papua New Guinea",
+		"Attacks": "8",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Paraguay",
+		"Attacks": "10",
+		"NumberKilled": "4"
+	},
+	{
+		"Country": "Peru",
+		"Attacks": "8",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Philippines",
+		"Attacks": "692",
+		"NumberKilled": "496"
+	},
+	{
+		"Country": "Poland",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Russia",
+		"Attacks": "33",
+		"NumberKilled": "61"
+	},
+	{
+		"Country": "Rwanda",
+		"Attacks": "2",
+		"NumberKilled": "2"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Attacks": "54",
+		"NumberKilled": "31"
+	},
+	{
+		"Country": "Serbia",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Sierra Leone",
+		"Attacks": "3",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Somalia",
+		"Attacks": "614",
+		"NumberKilled": "1912"
+	},
+	{
+		"Country": "South Africa",
+		"Attacks": "29",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "South Sudan",
+		"Attacks": "54",
+		"NumberKilled": "581"
+	},
+	{
+		"Country": "Spain",
+		"Attacks": "4",
+		"NumberKilled": "21"
+	},
+	{
+		"Country": "Sri Lanka",
+		"Attacks": "41",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Sudan",
+		"Attacks": "106",
+		"NumberKilled": "82"
+	},
+	{
+		"Country": "Sweden",
+		"Attacks": "18",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Syria",
+		"Attacks": "243",
+		"NumberKilled": "2026"
+	},
+	{
+		"Country": "Taiwan",
+		"Attacks": "1",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Tajikistan",
+		"Attacks": "2",
+		"NumberKilled": "1"
+	},
+	{
+		"Country": "Tanzania",
+		"Attacks": "6",
+		"NumberKilled": "8"
+	},
+	{
+		"Country": "Thailand",
+		"Attacks": "179",
+		"NumberKilled": "72"
+	},
+	{
+		"Country": "Tunisia",
+		"Attacks": "4",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Turkey",
+		"Attacks": "181",
+		"NumberKilled": "222"
+	},
+	{
+		"Country": "Uganda",
+		"Attacks": "13",
+		"NumberKilled": "7"
+	},
+	{
+		"Country": "Ukraine",
+		"Attacks": "61",
+		"NumberKilled": "40"
+	},
+	{
+		"Country": "United Kingdom",
+		"Attacks": "122",
+		"NumberKilled": "42"
+	},
+	{
+		"Country": "United States",
+		"Attacks": "65",
+		"NumberKilled": "95"
+	},
+	{
+		"Country": "Venezuela",
+		"Attacks": "17",
+		"NumberKilled": "5"
+	},
+	{
+		"Country": "Vietnam",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "West Bank and Gaza Strip",
+		"Attacks": "83",
+		"NumberKilled": "50"
+	},
+	{
+		"Country": "Yemen",
+		"Attacks": "226",
+		"NumberKilled": "762"
+	},
+	{
+		"Country": "Zambia",
+		"Attacks": "2",
+		"NumberKilled": "0"
+	},
+	{
+		"Country": "Zimbabwe",
+		"Attacks": "3",
+		"NumberKilled": "0"
+           }
+        ],
+        "year": "2017"
+    }
+]

@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Terrorism in the United States</title>
+	<link rel="stylesheet" type="text/css" href="style/overallstyle.css" />
+	<script type="text/javascript"
+			src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript">google.charts.load('current', {'packages':['bar', 'corechart', 'table']});
+	</script>
+	</head>
+<body>
+ <div class="container">
+    <div id="chart"></div>
+  </div>
+  <script src="js/d3.min.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+			<img id="noterror" src ="images/headerlogo.png">
+			</div><!--logo-->
+			<div id="menubar">
+				<ul id="menu">
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About the Data</a></li>
+					<li><a href="world.html">Around the World</a></li>
+					<li><a href="weapons.html">Use of Weaponry</a></li>
+					<li><a href="usterror.html">Terror in the U.S.</a></li>
+					
+				</ul>
+			</div><!--menubar-->		
+
+		</div><!-- header-->
+
+		<div id="content">
+			<!--insert page content here-->
+			<h1>Are there substantially more mass shootings in the United States than other parts of the world?</h1>
+			
+			<h2>Countries with more than 50 shooting events from 1997-2017</h1>
+			<div id="top50chart"
+			style="width:900px; height:500px;"></div></div>
+			<!-- 
+			<h2>Yearly Totals for Shootings in Developed Countries</h2>
+				<div id="dev_shooting_div"
+					style="width:900px; height:500px"></div> -->
+				
+		
+			<div class='tableauPlaceholder' id='viz1556388621732' style='position: relative; width:900px; height:500px'><noscript><a href='#'>
+			<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShootingBoxplot&#47;ComparingNumbersofShootingsinDevelopedCountries&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
+			<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+			<param name='embed_code_version' value='3' /> 
+			<param name='site_root' value='' />
+			<param name='name' value='ShootingBoxplot&#47;ComparingNumbersofShootingsinDevelopedCountries' />
+			<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+			<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShootingBoxplot&#47;ComparingNumbersofShootingsinDevelopedCountries&#47;1.png' />
+			<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+			<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+		</div><!--content-->
+
+
+		
+		<param name='display_count' value='yes' /></object></div>                
+		<script type='text/javascript'>                    
+		var divElement = document.getElementById('viz1556388621732');
+		var vizElement = divElement.getElementsByTagName('object')[0];
+		vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+		var scriptElement = document.createElement('script');
+		scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+		vizElement.parentNode.insertBefore(scriptElement, vizElement);
+		</script>
+		
+
+		<div id="content_footer">
+			<div id="footer">
+				&copy; <script>var d=new Date(); document.write(d.getFullYear());</script>
+				| <a href="#">HTML5</a> | <a href="#">CSS</a> | <a href="#">NZ</a>
+			</div><!--footer-->
+		</div><!--content_footer-->	
+	</div><!--main-->
+	
+</body>
+
+
+
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1556459592830');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
+
+
+
+<script>
+	function showPopup(url) {
+		newWindow=window.open(url, 'name', 'height=400, width=600, top=200, left=300, resizable');
+		if (window.focus) {newWindow.focus()}
+	}
+</script>
+
+
+<script>
+		// set the dimensions and margins of the graph
+var margin = {top: 0, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 + margin.top + margin.bottom;
+
+// set the ranges
+var x = d3.scaleBand()
+          .range([0, width])
+          .paddingInner(0.1);
+var y = d3.scaleLinear()
+          .range([height, 0]);
+          
+// append the svg object to the body of the page
+// append a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("#top50chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom + 100)
+  .append("g")
+    .attr("transform", 
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// get the data
+d3.csv("/DATS6401_FinalProject/data/weaponry.csv").then(function(data){
+console.log(data[1])
+
+  // format the data
+  data.forEach(function(d) {
+	//d.Country = +d.Country
+    d.Firearm_Attacks = +d.Firearm_Attacks;
+  });
+
+  // Scale the range of the data in the domains
+  x.domain(data.map(function(d) { return d.Country; }));
+  y.domain([0, d3.max(data, function(d) { return d.Firearm_Attacks; })]);
+
+  // append the rectangles for the bar chart
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Country); })
+      .attr("width", x.bandwidth())
+      .attr("y", function(d) { return y(d.Firearm_Attacks); })
+      .attr("height", function(d) { return height - y(d.Firearm_Attacks); })
+	  .attr("fill", "#3CB371");
+
+  // add the x Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+	  .text("Country")
+	  //.attr("transform", "rotate(40)")
+      .call(d3.axisBottom(x))
+	  .selectAll("text")
+			.attr("y", "10")
+			.attr("x", "-5")
+			.attr("text-anchor", "end")
+			.attr("transform", "rotate(-40)")
+			;
+	  
+		
+
+  // add the y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y))
+	  //.text("Number of Shooting Events")
+	  .selectAll("text")
+		;
+
+});
+</script>

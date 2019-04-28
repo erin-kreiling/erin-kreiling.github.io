@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Around the World</title>
+	<link rel="stylesheet" type="text/css" href="style/overallstyle.css" />
+	<script type="text/javascript"
+			src="https://www.gstatic.com/charts/loader.js"></script>
+		<script type="text/javascript">google.charts.load('current', {'packages':['bar', 'corechart', 'table']});
+	</script>
+</head>
+<body>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+			<img id="noterror" src ="images/headerlogo.png">
+			</div><!--logo-->
+			<div id="menubar">
+				<ul id="menu">
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About the Data</a></li>
+					<li><a href="world.html">Around the World</a></li>
+					<li><a href="weapons.html">Use of Weaponry</a></li>
+					<li><a href="usterror.html">Terror in the U.S.</a></li>
+					
+				</ul>
+			</div><!--menubar-->
+		</div><!-- header-->
+		<div id="content">
+			<!--insert page content here-->
+			<h1>How have the types of terrorist attacks changed over time and by country?</h1>
+			<p>
+			As the world has changed and evolved over time, so have the types of terrorist attacks
+			we see occurring. The visualizations below display these trends around the world. The first map show
+			the total number of terrorist attacks (of any type) in each country in 2017. The color scale indicates the
+			volume of attacks but you can also hover over the map to see the specific number of attacks. Pakistan had
+			by far the worst scenario in 2017, with over 12,000 attacks. For comparison, the United States had 599 and
+			Canada only had 12. Countries with no value displaying, such as Greenland, saw no terrorist attacks 
+			whatsoever in 2017.
+			</p>
+			
+			<h2>Terrorist Attacks by Country in 2017</h2>
+				<div id="attacks2017_div"
+				 style="width:900px; height:500px;"></div>
+			<p>
+			The second map shows the total number killed by country in 2017. You'll remember from the above map that
+			Pakistan had the highest number of attacks, however, the highest number of people were killed in Iraq (24,515).
+			This was about double those killed in Pakistan (12,833). Coincidentally, the number of people killed in the
+			United States was the same as the number of attacks (599). This is due to the fact that the majority of attacks
+			saw one or zero people killed.			
+			</p>
+		 
+			<h2>Total Killed by Country in 1997-2017</h2>
+				<div id="totalkilled_div"
+				style="width:900px; height:500px;"></div>
+				
+			<p>
+			The third map focuses on those killed in shooting events from 1997-2017 by country. Similar to the previous two
+			maps, the volumes are quite high in Pakistan and Afghanistan. Relative to many of the countries of the world,
+			the United States had a rather low volume of shootings (87), but this volume is striking compared to the majority
+			of the other developed countries around the world. The <strong>Terror in the U.S.</strong> page will dig in to this
+			phenomenon further. 
+			</p>
+			
+			<h2>Number of Shooting Events by Country in 1997-2017</h2>
+				<div id="totalshootings_div"
+				style="width:900px; height:500px;"></div>
+			This table allows you to sort in ascending or descending order to view each type by the country that had the most
+			(or least) occurrences. Once again, Pakistan and Iraq have the highest volumes for the first three attack types 
+			(Armed Assault, Assassination, and Bombing/Explosion). After that, India shows up as the first or second highest in the 
+			other categories. 
+			<h2>Number of Attacks by Type and Country</h2>
+				<div id="attackstype_div"
+				style="width:900px; height:500px;"></div>
+			
+			<p>
+			The final visualization on this page shows the dramatic increase in terrorist attacks worldwide. For this particular chart,
+			the data is not broken out by country but paints a dismal picture for the ways the world is changing. The data point in 2014
+			is especially terrible, which prompts the question: what happened in 2014? When researching this year, the first article that
+			appears on Google is entitled "Terror attacks, deaths up sharply in 2014: State Department " and you'll read on to learn that
+			al Qaeda was the leading jihadist militant group during this year. There was a 35% increase in attacks from 2013 and the increase
+			occurred primarily in Iraq, Afghanistan, and Nigeria (Strobel, 2015). </strong>.
+			</p>
+			
+			<h2>Total Terrorist Attacks Worldwide by Year</h2>
+				<div id="attacksbyyear_div"
+				style="width:900px; height:500px;"></div>
+			 </div> 
+
+
+		<div id="content_footer">
+			<div id="footer">
+				&copy; <script>var d=new Date(); document.write(d.getFullYear());</script>
+				| <a href="#">HTML5</a> | <a href="#">CSS</a> | <a href="#">NZ</a>
+			</div><!--footer-->
+		</div><!--content_footer-->	
+	</div><!--main-->
+	
+</body>
+
+
+	
+		<script type="text/javascript">
+//load the google charts
+	google.charts.load('current', {'packages': ['corechart']});
+	
+	//load the callback function that runs when page loads
+	google.charts.setOnLoadCallback(drawAllSheets);
+
+	function drawAllSheets() {
+
+		drawSheetName('AttacksbyCountry2017',
+					  'SELECT A,B',
+						Attacks2017ResponseHandler);
+	
+		drawSheetName('TotalKilledbyCountry',
+					  'SELECT A,B',
+					  TotalKilledResponseHandler);
+					  
+		drawSheetName('TotalShootingsbyCountry',
+					  'SELECT A,B',
+					  TotalShootingsResponseHandler);
+					  
+		drawSheetName('AttacksbyTypeCountry',
+					  'SELECT A,B,C,D,E,F,G,H,I,J',
+					  AttacksbyTypeResponseHandler);
+		
+		drawSheetName('AttacksbyYear',
+					 'SELECT A,B',
+					 AttacksbyYearResponseHandler);
+	}/*,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,AE,AF,AG,AH,AI,AJ,AK,AL,AM,AN,AO,AP,AQ,AR,AS,AT,AU,AV,AW,AX,AY,AZ,BA,BB,BC,BD,BE,BF,BG,BH,BI,BJ,BK,BL,BM,BN,BO,BP,BQ,BR,BS,BT,BU,BV,BW,BX,BY,BZ,CA,CB,CC,CD,CE,CF,CG,CH,CI,CJ,CK,CL,CM,CN,CO,CP,CQ,CR,CS,CT,CU,CV,CW,CX,CY,CZ,DA,DB,DC,DD,DE,DF,DG,DH,DI,DJ,DK,DL,DM,DN,DO,DP,DQ,DR,DS,DT,DU,DV,DW,DX,DY,DZ,EA,EB,EC,ED,EE,EF,EG,EH,EI,EJ,EK,EL,EM,EN,EO,EP,EQ,ER,ES,ET,EU,EV,EW,EX,EY,EZ,FA,FB,FC,FD,FE,FF,FG,FH,FI,FJ,FK,FL,FM,FN,FO,FP,FQ,FR,FS*/
+
+	function drawSheetName(sheetName, query, responseHandler) {
+	
+		var queryString = encodeURIComponent(query);
+
+		var query = new google.visualization.Query(
+		'https://docs.google.com/spreadsheets/d/1kmfmZo3ibGTrnKdVVhXJ01r6Y0PmuSnZdp-qZjVcXpw/gviz/tq?sheet='
+	+
+			 sheetName +'&headers=1&tq=' + queryString);	
+			 
+		query.send(responseHandler);
+		
+	}
+
+
+		
+	function Attacks2017ResponseHandler(response) {
+			var data = response.getDataTable();
+			
+			var options = {};
+										
+			
+		
+		var chart = new google.visualization.GeoChart(document.getElementById(
+		'attacks2017_div'));
+			
+		chart.draw(data, options);
+		
+	};
+	
+	function TotalKilledResponseHandler(response) {
+			var data = response.getDataTable();
+			
+			var options = {};
+			
+			var chart = new google.visualization.GeoChart(document.getElementById(
+			'totalkilled_div'));
+			
+			chart.draw(data, options);
+	
+	
+	};
+	
+	function TotalShootingsResponseHandler(response) {
+		var data = response.getDataTable();
+		
+		var options = {};
+		
+		var chart = new google.visualization.GeoChart(document.getElementById(
+		'totalshootings_div'));
+		
+		chart.draw(data, options);
+	
+	};
+	
+	function AttacksbyTypeResponseHandler(response) {
+		var data = response.getDataTable();
+		
+		var options = {frozenColumns:1};
+		
+		var chart = new google.visualization.Table(document.getElementById(
+		'attackstype_div'));
+		
+		chart.draw(data,options);
+	};
+	
+	function AttacksbyYearResponseHandler(response) {
+		var data = response.getDataTable();
+		
+		var options = {
+		title: 'Attacks by Year (1997-2017)',
+		legend: 'none',
+		hAxis:
+		{slantedText: true, slantedTextAngle: 45}};
+		
+		var chart = new google.visualization.LineChart(document.getElementById(
+		'attacksbyyear_div'));
+		
+		chart.draw(data,options);
+		};
+	
+	
+</script>
+
+
+
+
+
+<script>
+	function showPopup(url) {
+		newWindow=window.open(url, 'name', 'height=400, width=600, top=200, left=300, resizable');
+		if (window.focus) {newWindow.focus()}
+	}
+</script>

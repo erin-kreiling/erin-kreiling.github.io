@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Terror in the U.S.</title>
+	<link rel="stylesheet" type="text/css" href="style/overallstyle.css" />
+	
+	
+  <!--<link rel="stylesheet" href="style/base.css">-->
+  <!--<link rel="stylesheet" href="style/style.css">-->
+
+
+<body>
+  <div class="container">
+    <div id="chart"></div>
+  </div>
+  <script src="js/d3.min.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+ 
+	</head>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+			</div><!--logo-->
+			<div id="menubar">
+				<ul id="menu">
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About the Data</a></li>
+					<li><a href="world.html">Around the World</a></li>
+					<li><a href="weapons.html">Use of Weaponry</a></li>
+					<li><a href="usterror.html">Terror in the U.S.</a></li>
+					<li><a href="analysis.html">Overall Analysis</a></li>
+<body>
+	
+<script src="js/d3.min.js"></script>
+
+<script>
+// set the dimensions and margins of the graph
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// set the ranges
+var x = d3.scaleBand()
+          .range([0, width])
+          .paddingInner(0.1);
+var y = d3.scaleLinear()
+          .range([height, 0]);
+          
+// append the svg object to the body of the page
+// append a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", 
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// get the data
+d3.csv("/DATS6401_FinalProject/data/weaponry.csv").then(function(data){
+
+
+  // format the data
+  data.forEach(function(d) {
+	d.Country = +d.Country
+    d.Firearm_Attacks = +d.Firearm_Attacks;
+  });
+
+  // Scale the range of the data in the domains
+  x.domain(data.map(function(d) { return d.Country; }));
+  y.domain([0, d3.max(data, function(d) { return d.Firearm_Attacks; })]);
+
+  // append the rectangles for the bar chart
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Country); })
+      .attr("width", x.bandwidth())
+      .attr("y", function(d) { return y(d.Firearm_Attacks); })
+      .attr("height", function(d) { return height - y(d.Firearm_Attacks); });
+
+  // add the x Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+  // add the y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y));
+
+});
+
+</script>
+
+</body>

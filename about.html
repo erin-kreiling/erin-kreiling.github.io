@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About the Data</title>
+	<link rel="stylesheet" type="text/css" href="style/overallstyle.css" />
+	<script type="text/javascript"
+			src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+			<img id="noterror" src ="images/headerlogo.png">
+			</div><!--logo-->
+			<div id="menubar">
+				<ul id="menu">
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About the Data</a></li>
+					<li><a href="world.html">Around the World</a></li>
+					<li><a href="weapons.html">Use of Weaponry</a></li>
+					<li><a href="usterror.html">Terror in the U.S.</a></li>
+					
+				</ul>
+			</div><!--menubar-->
+		</div><!-- header-->
+
+		<div id="content">
+			<!--insert page content here-->
+			<!--insert page content here-->
+				
+				<img id="gtd_logo" src="images/logo.png" 
+					height="300" width="450" border="5"/>
+				
+				<p>
+				The University of Maryland maintains an extensive database, called the Global Terrorism Database,
+				that details any and all terrorist events
+				from 1970-2017. Within the database, there is information 
+				on more than 180,000 terrorist attacks with a variety of different factors, such as Date, Region,
+				Country, Perpetrator Group, Weapon Type, Attack Type, and Target Type. The data for each of the attacks 
+				collected from more than 4 million news articles and 25,000 other news sources. Citation information 
+				for the database can be found at the bottom of the page. 
+				</p>
+				
+				
+				<p><strong>Data Preparation and Preliminary Analysis</strong>
+				The initial data mining for this project was completed within RStudio. After downloading .csv files from 
+				the University of Maryland Global Terrorism Database, each was loaded into RStudio then concatenated to 
+				form one large .csv file with the appropriate variables and years included. The larger dataset was then 
+				analyzed to ensure proper variable types and identify any missing values. The Codebook provided by the 
+				database was utilized extensively during the data mining and cleaning portion of the project.
+				The majority of the cleaning for this project took place within Excel, working with pivot tables to filter
+				the data into the necessary subsets, as well as filling in a minor number of missing values. Some of the data
+				was loaded into Google Sheets, in order to make use of the Google Charts API. However, because the data coming
+				from the University database was so clean, minimal data munging was necessary and the focus was primarily on 
+				developing the visualizations nad this website. 
+								
+				</p>
+				
+			
+
+				<p>
+				<strong>Citation:</strong>
+				National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2018). Global Terrorism Database [Data file]. Retrieved from https://www.start.umd.edu/gtd
+				</p>
+				
+		</div><!--content-->
+		<div id="content_footer">
+			<div id="footer">
+				&copy; <script>var d=new Date(); document.write(d.getFullYear());</script>
+				| <a href="#">HTML5</a> | <a href="#">CSS</a> | <a href="#">NZ</a>
+			</div><!--footer-->
+		</div><!--content_footer-->	
+	</div><!--main-->
+	
+</body>
+
+
+	
+
+				
+</script>
+
+
+
+
+
+<script>
+	function showPopup(url) {
+		newWindow=window.open(url, 'name', 'height=400, width=600, top=200, left=300, resizable');
+		if (window.focus) {newWindow.focus()}
+	}
+</script>
